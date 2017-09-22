@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":3,"metadata":{},"exports":[{"from":"./src/sample.component","export":["SampleComponent"]},{"from":"./src/module","export":["SampleModule"]}]},{"__symbolic":"module","version":1,"metadata":{},"exports":[{"from":"./src/sample.component","export":["SampleComponent"]},{"from":"./src/module","export":["SampleModule"]}]}]
